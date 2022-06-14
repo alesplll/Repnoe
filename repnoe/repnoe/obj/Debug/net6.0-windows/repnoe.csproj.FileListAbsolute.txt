@@ -1,0 +1,15 @@
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\bin\Debug\net6.0-windows\repnoe.exe
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\bin\Debug\net6.0-windows\repnoe.deps.json
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\bin\Debug\net6.0-windows\repnoe.runtimeconfig.json
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\bin\Debug\net6.0-windows\repnoe.dll
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\bin\Debug\net6.0-windows\ref\repnoe.dll
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\bin\Debug\net6.0-windows\repnoe.pdb
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\obj\Debug\net6.0-windows\repnoe.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\obj\Debug\net6.0-windows\repnoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\obj\Debug\net6.0-windows\repnoe.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\obj\Debug\net6.0-windows\repnoe.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\obj\Debug\net6.0-windows\repnoe.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\obj\Debug\net6.0-windows\repnoe.dll
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\obj\Debug\net6.0-windows\ref\repnoe.dll
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\obj\Debug\net6.0-windows\repnoe.pdb
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\obj\Debug\net6.0-windows\repnoe.genruntimeconfig.cache
