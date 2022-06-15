@@ -13,3 +13,5 @@ C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\obj\Debug
 C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\obj\Debug\net6.0-windows\ref\repnoe.dll
 C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\obj\Debug\net6.0-windows\repnoe.pdb
 C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\obj\Debug\net6.0-windows\repnoe.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\obj\Debug\net6.0-windows\repnoe.Form1.resources
+C:\Users\artem\OneDrive\Документы\GitHub\Repnoe\repnoe\repnoe\obj\Debug\net6.0-windows\repnoe.csproj.GenerateResource.cache
